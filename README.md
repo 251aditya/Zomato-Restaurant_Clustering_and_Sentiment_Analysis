@@ -51,8 +51,7 @@ Optimal Clusters: The elbow method and silhouette scores identified that 5 clust
 
 Sentiment Trends: Most customers hold a positive sentiment, though specific areas like "delivery time" or "portion size" were identified as common negative feedback topics in the word clouds.
 ## 🧪 Model Performance
-        <img width="654" height="238" alt="image" src="https://github.com/user-attachments/assets/02e928f5-08bc-4542-8dce-511205955fb9" />
-
+ ![](modelperformance.jpg)
 ## Conclusion
 Clustering and sentiment analysis were performed on a dataset of customer reviews for the food delivery service Zomato.
 
